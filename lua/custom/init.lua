@@ -8,3 +8,4 @@
 --
 --
 
+-- Configure VSCode extensions
